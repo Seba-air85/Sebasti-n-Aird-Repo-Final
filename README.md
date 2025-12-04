@@ -46,5 +46,5 @@ NOMBRE-REPO-FINAL/
 ## 🟦 1) Clonar el repositorio
 
 ```bash
-git clone <URL-DEL-REPO>
+git clone https://github.com/Seba-air85/Sebasti-n-Aird-Repo-Final.git
 cd Sebastián-Aird-Repo-Final
